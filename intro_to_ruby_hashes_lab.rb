@@ -1,6 +1,5 @@
-def base_hash
-  p { 
-    :monopoly=> 
+def base_hash { 
+    :monopoly 
   }
   
 end
